@@ -11,3 +11,4 @@
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 - [BOOTSTRAP4](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- [JAVASCRIPT](https://devdocs.io/javascript/)
