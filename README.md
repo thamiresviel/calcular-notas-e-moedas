@@ -15,3 +15,4 @@
 
 # Screenshot
 
+![Screenshot](https://github.com/thamiresviel/calcular-notas-e-moedas/blob/master/screenshot.png)
